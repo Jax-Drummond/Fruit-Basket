@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="FinalProject.Managers.CollisionManager">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAABAAAAAAAAAAAAAQAAAAIAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Managers\CollisionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Managers.DropManager">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgEgAAAQAAARAAAgAAAwAAAAABAAAAIAAAEEgAAA=</HashCode>
+      <FileName>Managers\DropManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Managers.SceneManager">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Managers\SceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Managers.SoundManager">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Managers\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fruit_Basket.Managers.FileManager">
+    <Position X="20" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAgAAAAAAAAAAFAAgAAAAA=</HashCode>
+      <FileName>Managers\FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Classes.AnimatedSprite">
+    <Position X="15.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAAgAAAAhAAAgAAAAAAgAACAAAAAAAAAA=</HashCode>
+      <FileName>Classes\AnimatedSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Classes.Background">
+    <Position X="3.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Classes.Button">
+    <Position X="5.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAgAAgAAAAAAIAACgAAgAAAAAAAgCAACAAA=</HashCode>
+      <FileName>Classes\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Classes.Collector">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIQAAAgAAAAAAABAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Collector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Classes.DropItem">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQIAEAAAQEAAAAAgAAAAgAAAABAAAAABBEAAAAAAIA=</HashCode>
+      <FileName>Classes\DropItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Classes.Label">
+    <Position X="13" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAABAAQAAAAAAAAACAICAAA=</HashCode>
+      <FileName>Classes\Label.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Classes.TextBox">
+    <Position X="17.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAAgCAAEAAAAAQAAAAAAAAAICAAQACAIA=</HashCode>
+      <FileName>Classes\TextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fruit_Basket.Structs.LeaderBoardInfo">
+    <Position X="20" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAgAAAAAAAQAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Structs\LeaderBoardInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Scenes.Credits">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\Credits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Scenes.GameEnd">
+    <Position X="17.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAIAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\GameEnd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Scenes.Help">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\Help.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Scenes.LeaderBoard">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\LeaderBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Scenes.Level1">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\Level1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Scenes.Level2">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\Level2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Scenes.MainMenu">
+    <Position X="15" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgAAAAAAABAAAAAAAAAAAAAoAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Scenes.PlayerName">
+    <Position X="19.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Scenes\PlayerName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.BaseClasses.Component">
+    <Position X="13" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAgAAAAAAAAAAAAAAAAQAAAgAAAAAA=</HashCode>
+      <FileName>BaseClasses\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.BaseClasses.Scene">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAgAAAAAAAAAAAAAACAIBAAAAAAAQ=</HashCode>
+      <FileName>BaseClasses\Scene.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Fruit_Basket.BaseClasses.Level">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAYAiAAEAAIAAAgAAAAAAAAAAACAAAAAAAAAgASAAAA=</HashCode>
+      <FileName>BaseClasses\Level.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="FinalProject.Structs.DropItemInfo">
+    <Position X="21.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAACAAAAAAAAAAABAAAAAAACAAQAAAAIAAAARAAA=</HashCode>
+      <FileName>Structs\DropItemInfo.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="FinalProject.Interfaces.ILevel">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAiAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgASAAAA=</HashCode>
+      <FileName>Interfaces\ILevel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FinalProject.Interfaces.IScene">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IScene.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,64 @@
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Fruit Basket.exe
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Apple.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Backgrounds\Credits.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Backgrounds\GameEnd.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Backgrounds\Help.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Backgrounds\Leaderboard.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Backgrounds\Level1.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Backgrounds\Level2.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Backgrounds\MainMenu.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Backgrounds\UsernameEntry.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/basket.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/buttonBackground.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/caret.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Cherry.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/DropSprites\2xPoints.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/DropSprites\Apple.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/DropSprites\Bacteria.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/DropSprites\Cherry.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/DropSprites\HealthUp.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/DropSprites\KillBacteria.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/DropSprites\Orange.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/DropSprites\pineapple.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/DropSprites\Strawberry.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/DropSprites\Watermelon.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/nameAtlas.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Orange.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/SFX\bacteriacollect.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/SFX\boostcollect.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/SFX\buttonClick.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/SFX\buttonHover.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/SFX\fruitcollect.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/SFX\gameplay.wma
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/SFX\gameplay.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/SFX\mainmenu.wma
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/SFX\mainmenu.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/text.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/textBoxBackground.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/title.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Content/Watermelon.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Fruit Basket.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Fruit Basket.deps.json
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Fruit Basket.runtimeconfig.json
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Fruit Basket.pdb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Microsoft.CodeAnalysis.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\MonoGame.Framework.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\SharpDX.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\SharpDX.Direct2D1.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\SharpDX.Direct3D11.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\SharpDX.Direct3D9.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\SharpDX.DXGI.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\SharpDX.Mathematics.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\SharpDX.MediaFoundation.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\SharpDX.XAudio2.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\SharpDX.XInput.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\runtimes\debian-x64\native\libuv.so
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\runtimes\fedora-x64\native\libuv.so
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\runtimes\opensuse-x64\native\libuv.so
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\runtimes\osx\native\libuv.dylib
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\runtimes\rhel-x64\native\libuv.so
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\runtimes\win7-arm\native\libuv.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\runtimes\win7-x64\native\libuv.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\Y2S1\Game Prog w Data Structures\FinalProject\FinalProject\bin\Release\net6.0-windows\app.publish\runtimes\win7-x86\native\libuv.dll
