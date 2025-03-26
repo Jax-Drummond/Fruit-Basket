@@ -4,38 +4,38 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/Backgrounds/Credits.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/Backgrounds/GameEnd.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/Backgrounds/Help.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/Backgrounds/Leaderboard.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/Backgrounds/Level1.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/Backgrounds/Level2.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/Backgrounds/MainMenu.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/Backgrounds/UsernameEntry.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/basket.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/buttonBackground.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/caret.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/DropSprites/2xPoints.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/DropSprites/Apple.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/DropSprites/Bacteria.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/DropSprites/Cherry.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/DropSprites/HealthUp.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/DropSprites/KillBacteria.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/DropSprites/Orange.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/DropSprites/pineapple.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/DropSprites/Strawberry.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/DropSprites/Watermelon.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/nameAtlas.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/SFX/bacteriacollect.wav</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/SFX/boostcollect.wav</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/SFX/buttonClick.wav</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/SFX/buttonHover.wav</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/SFX/fruitcollect.wav</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/SFX/gameplay.mp3</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/SFX/mainmenu.mp3</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/text.spritefont</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/textBoxBackground.png</File>
-    <File>C:/Users/jaxdr/Downloads/JDFinal/FinalProject/Content/title.spritefont</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/Backgrounds/Credits.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/Backgrounds/GameEnd.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/Backgrounds/Help.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/Backgrounds/Leaderboard.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/Backgrounds/Level1.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/Backgrounds/Level2.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/Backgrounds/MainMenu.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/Backgrounds/UsernameEntry.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/basket.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/buttonBackground.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/caret.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/2xPoints.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/Apple.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/Bacteria.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/Cherry.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/HealthUp.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/KillBacteria.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/Orange.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/pineapple.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/Strawberry.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/Watermelon.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/nameAtlas.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/SFX/bacteriacollect.wav</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/SFX/boostcollect.wav</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/SFX/buttonClick.wav</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/SFX/buttonHover.wav</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/SFX/fruitcollect.wav</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/SFX/gameplay.mp3</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/SFX/mainmenu.mp3</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/text.spritefont</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/textBoxBackground.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/title.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

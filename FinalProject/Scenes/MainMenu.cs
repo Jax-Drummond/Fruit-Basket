@@ -55,7 +55,13 @@ namespace FinalProject.Scenes
                 new Vector2(_graphics.PreferredBackBufferWidth / 2, 380),
                 new Color(62, 66, 74), "Credits");
             creditsButton.OnClick += OnCreditsButtonClick;
-			Button exitButton = new(
+            Button settingsButton = new(
+                _game,
+                _spriteBatch,
+                new Vector2(130, 440),
+                new Color(62, 66, 74), "Settings");
+            settingsButton.OnClick += OnSettingsButtonClick;
+            Button exitButton = new(
                 _game, 
                 _spriteBatch, 
                 new Vector2(_graphics.PreferredBackBufferWidth / 2, 440f),
@@ -76,6 +82,11 @@ namespace FinalProject.Scenes
         private void OnCreditsButtonClick()
         {
             Game1.SceneManager.LoadScene("Credits");
+        }
+
+        private void OnSettingsButtonClick()
+        {
+            Game1.SceneManager.LoadScene("Settings");
         }
 
         private void OnExitButtonClick()

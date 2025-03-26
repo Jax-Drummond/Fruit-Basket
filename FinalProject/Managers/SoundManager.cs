@@ -37,5 +37,10 @@ namespace FinalProject.Managers
             MediaPlayer.Play(Game.Content.Load<Song>(musicNameWithPrefix));
         }
 
+        public void SetVolume(float volume)
+        {
+            MediaPlayer.Volume = volume;
+        }
+
 	}
 }

@@ -21,6 +21,8 @@ namespace FinalProject.Classes
         private Vector2 _caretPosition { get; set; }
         private Vector2 _textPosition { get; set; }
         private KeyboardState _oldKeyBoardState;
+        public bool NumberLock { get; set; } = false;
+        public int maxLength { get; set; } = 12;
 
         public TextBox(Game game, SpriteBatch spriteBatch, Vector2 position, Color color, string text = "") : base(game, spriteBatch, position, color)
         {
@@ -69,23 +71,30 @@ namespace FinalProject.Classes
                 {
                     OnEnter?.Invoke();
                 }
-                else if (key == Keys.Space)
-                {
-                    InputText += " ";
-                }
                 else
                 {
-                    if (textSize.X < _background.Width - 20)
+                    if (InputText.Length < maxLength)
                     {
-                        if (key.ToString().Length == 1)
+                        if (key == Keys.Space && !NumberLock)
                         {
-                            if (keyboardState.IsKeyDown(Keys.LeftShift))
+                            InputText += " ";
+                        }
+                        else if (key.ToString().Length == 1 || (key.ToString().Substring(0,1) == "D" && key.ToString().Length == 2))
+                        {
+                            if (key.ToString().Length == 2)
                             {
-                                InputText += key.ToString();
+                                InputText += key.ToString().Substring(1, 1);
                             }
-                            else
+                            if (!NumberLock)
                             {
-                                InputText += key.ToString().ToLower();
+                                if (keyboardState.IsKeyDown(Keys.LeftShift))
+                                {
+                                    InputText += key.ToString();
+                                }
+                                else if(key.ToString().Length == 1)
+                                {
+                                    InputText += key.ToString().ToLower();
+                                }
                             }
                         }
                     }

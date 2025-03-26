@@ -148,3 +148,79 @@ C:\Users\jaxdr\Downloads\JDFinal\FinalProject\bin\Debug\net6.0-windows\runtimes\
 C:\Users\jaxdr\Downloads\JDFinal\FinalProject\obj\Debug\net6.0-windows\Fruit Ba.F05AA1F3.Up2Date
 C:\Users\jaxdr\Downloads\JDFinal\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.genruntimeconfig.cache
 C:\Users\jaxdr\Downloads\JDFinal\FinalProject\obj\Debug\net6.0-windows\ref\Fruit Basket.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Apple.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Cherry.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Orange.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Watermelon.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Backgrounds\Credits.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Backgrounds\GameEnd.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Backgrounds\Help.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Backgrounds\Leaderboard.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Backgrounds\Level1.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Backgrounds\Level2.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Backgrounds\MainMenu.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\Backgrounds\UsernameEntry.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\basket.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\buttonBackground.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\caret.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\2xPoints.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\Apple.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\Bacteria.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\Cherry.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\HealthUp.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\KillBacteria.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\Orange.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\pineapple.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\Strawberry.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\Watermelon.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\nameAtlas.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\SFX\bacteriacollect.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\SFX\boostcollect.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\SFX\buttonClick.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\SFX\buttonHover.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\SFX\fruitcollect.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\SFX\gameplay.wma
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\SFX\gameplay.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\SFX\mainmenu.wma
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\SFX\mainmenu.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\text.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\textBoxBackground.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\title.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Fruit Basket.exe
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Fruit Basket.deps.json
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Fruit Basket.runtimeconfig.json
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Fruit Basket.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Fruit Basket.pdb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.csproj.AssemblyReference.cache
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.AssemblyInfoInputs.cache
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.AssemblyInfo.cs
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.csproj.CoreCompileInputs.cache
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.sourcelink.json
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Ba.F05AA1F3.Up2Date
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\refint\Fruit Basket.dll
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.pdb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.genruntimeconfig.cache
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\ref\Fruit Basket.dll
