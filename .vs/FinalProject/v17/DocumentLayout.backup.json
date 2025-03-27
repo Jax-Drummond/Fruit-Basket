@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|c:\\users\\jaxdr\\onedrive - conestoga college\\school\\bcs\\y2s2 ---\\software design techniques\\fruit-basket\\finalproject\\scenes\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\scenes\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|c:\\users\\jaxdr\\onedrive - conestoga college\\school\\bcs\\y2s2 ---\\software design techniques\\fruit-basket\\finalproject\\classes\\dropitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\classes\\dropitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|c:\\users\\jaxdr\\onedrive - conestoga college\\school\\bcs\\y2s2 ---\\software design techniques\\fruit-basket\\finalproject\\managers\\collisionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\managers\\collisionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|c:\\users\\jaxdr\\onedrive - conestoga college\\school\\bcs\\y2s2 ---\\software design techniques\\fruit-basket\\finalproject\\classes\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\classes\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|c:\\users\\jaxdr\\onedrive - conestoga college\\school\\bcs\\y2s2 ---\\software design techniques\\fruit-basket\\finalproject\\scenes\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\scenes\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|c:\\users\\jaxdr\\onedrive - conestoga college\\school\\bcs\\y2s2 ---\\software design techniques\\fruit-basket\\finalproject\\classes\\animatedsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\classes\\animatedsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|c:\\users\\jaxdr\\onedrive - conestoga college\\school\\bcs\\y2s2 ---\\software design techniques\\fruit-basket\\finalproject\\scenes\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\scenes\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,14 +70,6 @@
       "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\content\\basket.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|c:\\users\\jaxdr\\onedrive - conestoga college\\school\\bcs\\y2s2 ---\\software design techniques\\fruit-basket\\finalproject\\classes\\dropitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\classes\\dropitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|c:\\users\\jaxdr\\onedrive - conestoga college\\school\\bcs\\y2s2 ---\\software design techniques\\fruit-basket\\finalproject\\managers\\collisionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\managers\\collisionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|c:\\users\\jaxdr\\onedrive - conestoga college\\school\\bcs\\y2s2 ---\\software design techniques\\fruit-basket\\finalproject\\baseclasses\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98A91E98-6CC4-43D4-9AD8-F2BB1BFB4FA6}|FinalProject\\Fruit Basket.csproj|solutionrelative:finalproject\\baseclasses\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,11 +93,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Help.cs",
+              "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Scenes\\Help.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Scenes\\Help.cs",
+              "ToolTip": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Scenes\\Help.cs",
+              "RelativeToolTip": "FinalProject\\Scenes\\Help.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:49:56.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Collector.cs",
+              "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Classes\\Collector.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Classes\\Collector.cs",
+              "ToolTip": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Classes\\Collector.cs",
+              "RelativeToolTip": "FinalProject\\Classes\\Collector.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:56:37.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level1.cs",
+              "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Scenes\\Level1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Scenes\\Level1.cs",
+              "ToolTip": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Scenes\\Level1.cs",
+              "RelativeToolTip": "FinalProject\\Scenes\\Level1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:47:22.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimatedSprite.cs",
+              "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Classes\\AnimatedSprite.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Classes\\AnimatedSprite.cs",
+              "ToolTip": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Classes\\AnimatedSprite.cs",
+              "RelativeToolTip": "FinalProject\\Classes\\AnimatedSprite.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:45:36.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TextBox.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Classes\\TextBox.cs",
               "RelativeDocumentMoniker": "FinalProject\\Classes\\TextBox.cs",
@@ -89,12 +158,11 @@
               "RelativeToolTip": "FinalProject\\Classes\\TextBox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T17:03:56.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T17:03:56.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Scenes\\MainMenu.cs",
               "RelativeDocumentMoniker": "FinalProject\\Scenes\\MainMenu.cs",
@@ -102,12 +170,11 @@
               "RelativeToolTip": "FinalProject\\Scenes\\MainMenu.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAowEcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T16:59:09.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T16:59:09.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "SoundManager.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Managers\\SoundManager.cs",
               "RelativeDocumentMoniker": "FinalProject\\Managers\\SoundManager.cs",
@@ -115,16 +182,11 @@
               "RelativeToolTip": "FinalProject\\Managers\\SoundManager.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwBgAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T16:55:01.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "WhenOpened": "2025-03-26T16:55:01.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "LeaderBoard.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Scenes\\LeaderBoard.cs",
               "RelativeDocumentMoniker": "FinalProject\\Scenes\\LeaderBoard.cs",
@@ -132,25 +194,23 @@
               "RelativeToolTip": "FinalProject\\Scenes\\LeaderBoard.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T16:50:36.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T16:50:36.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Settings.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Scenes\\Settings.cs",
               "RelativeDocumentMoniker": "FinalProject\\Scenes\\Settings.cs",
               "ToolTip": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Scenes\\Settings.cs",
               "RelativeToolTip": "FinalProject\\Scenes\\Settings.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwBsAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T16:48:32.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T16:48:32.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "PlayerName.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Scenes\\PlayerName.cs",
               "RelativeDocumentMoniker": "FinalProject\\Scenes\\PlayerName.cs",
@@ -158,12 +218,11 @@
               "RelativeToolTip": "FinalProject\\Scenes\\PlayerName.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T16:47:45.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T16:47:45.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Fruit Basket",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Fruit Basket.csproj",
               "RelativeDocumentMoniker": "FinalProject\\Fruit Basket.csproj",
@@ -174,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "basket.png",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Content\\basket.png",
               "RelativeDocumentMoniker": "FinalProject\\Content\\basket.png",
@@ -185,19 +244,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "CollisionManager.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Managers\\CollisionManager.cs",
               "RelativeDocumentMoniker": "FinalProject\\Managers\\CollisionManager.cs",
               "ToolTip": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Managers\\CollisionManager.cs",
               "RelativeToolTip": "FinalProject\\Managers\\CollisionManager.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwGUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAIAwwCcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T22:56:35.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Level.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\BaseClasses\\Level.cs",
               "RelativeDocumentMoniker": "FinalProject\\BaseClasses\\Level.cs",
@@ -209,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Level2.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Scenes\\Level2.cs",
               "RelativeDocumentMoniker": "FinalProject\\Scenes\\Level2.cs",
@@ -221,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "DropManager.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Managers\\DropManager.cs",
               "RelativeDocumentMoniker": "FinalProject\\Managers\\DropManager.cs",
@@ -233,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "DropItemInfo.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Structs\\DropItemInfo.cs",
               "RelativeDocumentMoniker": "FinalProject\\Structs\\DropItemInfo.cs",
@@ -245,19 +304,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "DropItem.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Classes\\DropItem.cs",
               "RelativeDocumentMoniker": "FinalProject\\Classes\\DropItem.cs",
               "ToolTip": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Classes\\DropItem.cs",
               "RelativeToolTip": "FinalProject\\Classes\\DropItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowDsAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T22:51:29.983Z"
+              "WhenOpened": "2025-03-09T22:51:29.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Program.cs",
               "RelativeDocumentMoniker": "FinalProject\\Program.cs",
@@ -269,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\jaxdr\\OneDrive - Conestoga College\\School\\BCS\\Y2S2 ---\\Software Design Techniques\\Fruit-Basket\\FinalProject\\Game1.cs",
               "RelativeDocumentMoniker": "FinalProject\\Game1.cs",
@@ -277,12 +337,11 @@
               "RelativeToolTip": "FinalProject\\Game1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T22:48:00.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T22:48:00.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "MonoGame.Content.Builder.Task.targets",
               "DocumentMoniker": "C:\\Users\\jaxdr\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",

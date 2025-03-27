@@ -50,38 +50,18 @@ namespace FinalProject.Classes
         /// <returns></returns>
         public bool Intersects(Rectangle rect)
         {
-            float tempX = Position.X;
-            float tempY = Position.Y;
-            
-            if(Position.X < rect.Left)
-            {
-                tempX = rect.Left;
-            }
-            else if(Position.X > rect.Right)
-            {
-                tempX = rect.Right;
-            }
+            // Find the closest point on the rectangle to the circle's center
+            float tempX = Math.Max(rect.Left, Math.Min(Position.X, rect.Right));
+            float tempY = Math.Max(rect.Top, Math.Min(Position.Y, rect.Bottom));
 
-            if(Position.Y < rect.Top)
-            {
-                tempY = rect.Top;
-            }
-            else if(Position.Y > rect.Bottom) 
-            {
-                tempY = rect.Bottom;
-            }
-
+            // Compute squared distance from circle center to the closest point
             float relativeX = Position.X - tempX;
             float relativeY = Position.Y - tempY;
-            float distance = (float)Math.Sqrt(Math.Pow(relativeX, 2) + Math.Pow(relativeY, 2));
+            float distanceSquared = relativeX * relativeX + relativeY * relativeY;
 
-            if(distance <= Radius)
-            {
-                return true;
-            }
+            // Compare squared distances to avoid unnecessary sqrt()
+            return distanceSquared <= Radius * Radius;
 
-            return false;
-           
         }
 
         /// <summary>
