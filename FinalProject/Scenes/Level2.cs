@@ -71,6 +71,16 @@ namespace FinalProject.Scenes
 			};
 			DropManager.upgradeItems.Add(upgradeItemInfo);
 
+            upgradeItemInfo = new DropItemInfo()
+            {
+                Texture = Game.Content.Load<Texture2D>("DropSprites/HalfPoint"),
+                speed = 5f,
+                cols = 3,
+                rows = 2,
+                upgradeString = "HalfPoints"
+            };
+            DropManager.upgradeItems.Add(upgradeItemInfo);
+
 			upgradeItemInfo = new DropItemInfo()
 			{
 				Texture = Game.Content.Load<Texture2D>("DropSprites/KillBacteria"),

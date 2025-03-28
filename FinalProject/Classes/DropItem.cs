@@ -73,6 +73,14 @@ namespace FinalProject.Classes
         }
 
         /// <summary>
+        /// A Debuff that halfs all of the points of this drop item
+        /// </summary>
+        public void HalfPoints()
+        {
+            _points /= 2;
+        }
+
+        /// <summary>
         /// Used to collect points
         /// </summary>
         /// <returns></returns>

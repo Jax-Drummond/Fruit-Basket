@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jax Drummond")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4a0b0d94a294bdb14557459894d46c1056f9085")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f302861ffe7efcc94ee7a3d77978e5aeedca53f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fruit Basket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fruit Basket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

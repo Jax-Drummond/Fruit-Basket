@@ -43,8 +43,19 @@ namespace FinalProject.Managers
                             {
                                 dropItem.Destroy();
                                 _level.TakeDamage(999);
-								Game1.SoundManager.PlaySound("bacteriacollect");
-							}
+                                Game1.SoundManager.PlaySound("bacteriacollect");
+                            }
+                            else if (dropItem.UpgradeString != "" && dropItem.UpgradeString != null) // For Debuffs
+                            {
+                                dropItem.Destroy();
+                                switch (dropItem.UpgradeString)
+                                {
+                                    case "HalfPoints":
+                                        HalfPoints();
+                                        break;
+                                }
+                                Game1.SoundManager.PlaySound("bacteriacollect");
+                            }
                             else
                             {
 							    _level.Score += dropItem.CollectPoints();
@@ -71,6 +82,9 @@ namespace FinalProject.Managers
                                         break;
                                     case "HealthUp":
                                         HealthUp();
+                                        break;
+                                    case "HalfPoints":
+                                        HalfPoints();
                                         break;
                                 }
                                 Game1.SoundManager.PlaySound("boostcollect");
@@ -114,6 +128,27 @@ namespace FinalProject.Managers
             catch
             {
                 DoublePoints();
+            }
+        }
+
+        /// <summary>
+        /// Used for halving points for all drops on screen
+        /// </summary>
+        private void HalfPoints()
+        {
+            try
+            {
+                foreach (DropItem dropItem in DropItems)
+                {
+                    if (!dropItem.IsBacteria && !dropItem.IsUpgrade)
+                    {
+                        dropItem.HalfPoints();
+                    }
+                }
+            }
+            catch
+            {
+                HalfPoints();
             }
         }
 
