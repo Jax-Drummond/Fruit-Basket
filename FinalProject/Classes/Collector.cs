@@ -35,6 +35,7 @@ namespace FinalProject.Classes
             base.Update(gameTime);
         }
 
+        
         public override void Draw(GameTime gameTime)
         {
             SpriteBatch.Begin();
@@ -50,6 +51,14 @@ namespace FinalProject.Classes
         public void SetSpeed(float speed)
         {
             _speed = speed;
+        }
+
+        /// <summary>
+        /// Halfs the speed of the collector
+        /// </summary>
+        public void HalfSpeed()
+        {
+            _speed /= 2;
         }
 
         /// <summary>

@@ -225,3 +225,4 @@ C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design 
 C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\Fruit Basket.genruntimeconfig.cache
 C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\obj\Debug\net6.0-windows\ref\Fruit Basket.dll
 C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\HalfPoint.xnb
+C:\Users\jaxdr\OneDrive - Conestoga College\School\BCS\Y2S2 ---\Software Design Techniques\Fruit-Basket\FinalProject\bin\Debug\net6.0-windows\Content\DropSprites\HalfSpeed.xnb

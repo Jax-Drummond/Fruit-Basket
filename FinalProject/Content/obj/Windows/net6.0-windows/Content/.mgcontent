@@ -20,6 +20,7 @@
     <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/Bacteria.png</File>
     <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/Cherry.png</File>
     <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/HalfPoint.png</File>
+    <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/HalfSpeed.png</File>
     <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/HealthUp.png</File>
     <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/KillBacteria.png</File>
     <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/DropSprites/Orange.png</File>
@@ -39,6 +40,7 @@
     <File>C:/Users/jaxdr/OneDrive - Conestoga College/School/BCS/Y2S2 ---/Software Design Techniques/Fruit-Basket/FinalProject/Content/title.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

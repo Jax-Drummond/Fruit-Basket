@@ -53,6 +53,9 @@ namespace FinalProject.Managers
                                     case "HalfPoints":
                                         HalfPoints();
                                         break;
+                                    case "HalfSpeed":
+                                        _level.Collector.HalfSpeed();
+                                        break;
                                 }
                                 Game1.SoundManager.PlaySound("bacteriacollect");
                             }
